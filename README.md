@@ -1,7 +1,5 @@
 # AWS Terraform Project
 
-![AWS Architecture](project\ pics/terraform.png)
-
 ## Project Overview
 This Terraform project sets up an AWS infrastructure with:
 - A VPC with public and private subnets.
